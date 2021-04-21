@@ -9,6 +9,8 @@ Currently this repository contains one notebook involving:
 * Hypothesis testing to answer specific questions using statistical tests
 * Next steps, outlining other use cases for this acquired data
 
+If the file does not open in Github go to [Notebook Viewer](https://nbviewer.jupyter.org/) and enter this [URL](https://github.com/georgeboorman/NBA-Projects/blob/main/Analysing_NBA_Player_Performance_between_1970_and_2020.ipynb). 
+
 There will be a series of notebooks following this to conduct further statistical analyses and building machine learning models for the following use cases:
 
 Cluster analysis to identify whether more than 5 groups exist compared to the 5 basketball positions.
