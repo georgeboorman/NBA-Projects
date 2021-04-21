@@ -9,7 +9,7 @@ Currently this repository contains one notebook involving:
 * Hypothesis testing to answer specific questions using statistical tests
 * Next steps, outlining other use cases for this acquired data
 
-Many of the visualisations in this notebook are produced using Plotly which may not render in Jupyter Notebook. By clicking the link at the top of the notebook to open in Google Colab you will be able to see all of the plots. 
+Many of the visualisations in this notebook are produced using Plotly which may not render in Jupyter Notebook. You can see all plots by opening in Google Colab either by clicking [here](https://colab.research.google.com/github/georgeboorman/NBA-Projects/blob/main/Analysing_NBA_Player_Performance_between_1970_and_2020.ipynb) or on the link at the top of the [notebook](https://github.com/georgeboorman/NBA-Projects/blob/main/Analysing_NBA_Player_Performance_between_1970_and_2020.ipynb). 
 
 There will be a series of notebooks following this to conduct further statistical analyses and building machine learning models for the following use cases:
 
